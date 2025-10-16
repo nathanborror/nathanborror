@@ -1,16 +1,18 @@
-## Hi there 👋
+Most of my work is Swift or Go
 
-<!--
-**nathanborror/nathanborror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Products
 
-Here are some ideas to get you started:
+- [Wild](https://github.com/nathanborror/Wild): 🔒 new social utility.
+- [Rabble](https://github.com/nathanborror/Rabble): basic IRC client.
+- [Heat](https://github.com/nathanborror/Heat): experimental chat project.
+  
+## Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [WIT](https://github.com/nathanborror/swift-wit): content-addressable store for Wild (above).
+- [GenKit](https://github.com/nathanborror/swift-gen-kit): interact with a variety of model APIs using a single interface.
+
+## Generated Libraries
+
+- [Merge](https://github.com/nathanborror/swift-merge-generated): diff and perform three-way merges of documents. 
+- [MIME](https://github.com/nathanborror/swift-mime-generated): parse MIME formatted multi-part messages.
+- [IRC](https://github.com/nathanborror/swift-irc-generated): interact with IRC servers.
