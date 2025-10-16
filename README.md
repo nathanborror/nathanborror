@@ -1,8 +1,8 @@
-Most of my work is Swift or Go.
+Hello 👋 I'm an independent software builder in Northern California. Swift and Go are my languages of choice. Currently working on a new decentralized social utility called [Wild](https://github.com/nathanborror/Wild) which will be public soon!
 
 ### Products
 
-- [Wild](https://github.com/nathanborror/Wild): 🔒 new social utility.
+- [Wild](https://github.com/nathanborror/Wild): a new social utility. 🔒
 - [Rabble](https://github.com/nathanborror/Rabble): basic IRC client.
 - [Heat](https://github.com/nathanborror/Heat): experimental chat project.
   
