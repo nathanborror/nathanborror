@@ -16,5 +16,6 @@ Hello 👋 I'm an independent software builder in Northern California. Swift and
 _These are purely maintained by LLMs with minimal human intervention._
 
 - [Merge](https://github.com/nathanborror/swift-merge-generated): diff and perform three-way merges of documents. 
-- [MIME](https://github.com/nathanborror/swift-mime-generated): parse MIME formatted multi-part messages.
+- [MIME](https://github.com/nathanborror/swift-mime-generated): encode and decode MIME formatted multi-part messages.
 - [IRC](https://github.com/nathanborror/swift-irc-generated): interact with IRC servers.
+- [INI](https://github.com/nathanborror/swift-ini-generated): encode and decode INI files.
